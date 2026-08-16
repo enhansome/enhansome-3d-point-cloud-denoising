@@ -35,7 +35,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 # 2003
 
-* \[[Link](https://dev.ipol.im/~morel/Dossier_MVA_2011_Cours_Transparents_Documents/2011_Cours3_Document1_bilateral_mesh_denoising.pdf)] Bilateral mesh denoising \[[code](https://github.com/bldeng/GuidedDenoising/tree/master) ⭐ 215 | 🐛 8 | 🌐 C++ | 📅 2020-06-13] 🔸 `trad.`
+* \[[Link](https://dev.ipol.im/~morel/Dossier_MVA_2011_Cours_Transparents_Documents/2011_Cours3_Document1_bilateral_mesh_denoising.pdf)] Bilateral mesh denoising \[[code](https://github.com/bldeng/GuidedDenoising/tree/master) ⭐ 216 | 🐛 8 | 🌐 C++ | 📅 2020-06-13] 🔸 `trad.`
 * \[[Link](https://people.csail.mit.edu/thouis/JDD03.pdf)] Non-Iterative, Feature-Preserving Mesh Smoothing \[[code](https://github.com/Oponn-1/3D-Point-Cloud-Denoising/blob/master/smoother.c) ⭐ 9 | 🐛 1 | 🌐 C | 📅 2018-12-11] 🔥
 * \[[Link](https://graphics.stanford.edu/courses/cs468-03-fall/Papers/Levin_MovingLeastSquares.pdf)] Mesh-Independent Surface Interpolation MLS \[]\[`oth.`] 🔥
 
@@ -53,7 +53,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 # 2007
 
-* \[[Link](https://langbein.org/wp-content/uploads/2009/06/sun2007.pdf)] Fast and Effective Feature-Preserving Mesh Denoising \[[code](https://github.com/bldeng/GuidedDenoising/tree/master) ⭐ 215 | 🐛 8 | 🌐 C++ | 📅 2020-06-13] 🌟
+* \[[Link](https://langbein.org/wp-content/uploads/2009/06/sun2007.pdf)] Fast and Effective Feature-Preserving Mesh Denoising \[[code](https://github.com/bldeng/GuidedDenoising/tree/master) ⭐ 216 | 🐛 8 | 🌐 C++ | 📅 2020-06-13] 🌟
 * \[[Link](https://hal.science/hal-00333374/file/SSVM-2007.pdf)] Discrete Regularization on Weighted Graphs for Image and Mesh Filtering ◼️ `var.` `pde` `mesh.`
 * \[[Link](https://dev.ipol.im/~morel/Dossier_MVA_2011_Cours_Transparents_Documents/2011_Cours3_Document2_Locally_Optimal_Projection.pdf)] Parameterization-free Projection for Geometry Reconstruction (LOP) 🔥
 
@@ -76,7 +76,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 # 2011
 
 * \[[Link](https://chpc.greyc.fr/images/Documents/Publications/2011_06_Nonlocal_PDEs-Based_Morphology_on_Weighted_Graphs_for_Image_and_Data_Processing.pdf)] Nonlocal PDEs-Based Morphology on Weighted Graphs for Image and Data Processing ◼️ `pde`
-* \[[Link](https://hongbofu.people.ust.hk/doc/bilateral_normal_filtering_tvcg11.pdf)] Bilateral Normal Filtering for Mesh Denoising \[[code](https://github.com/bldeng/GuidedDenoising/tree/master) ⭐ 215 | 🐛 8 | 🌐 C++ | 📅 2020-06-13] 🌟 `trad.`
+* \[[Link](https://hongbofu.people.ust.hk/doc/bilateral_normal_filtering_tvcg11.pdf)] Bilateral Normal Filtering for Mesh Denoising \[[code](https://github.com/bldeng/GuidedDenoising/tree/master) ⭐ 216 | 🐛 8 | 🌐 C++ | 📅 2020-06-13] 🌟 `trad.`
 
 # 2012
 
@@ -86,7 +86,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 # 2013
 
 * \[[Link](https://par.nsf.gov/servlets/purl/10443276)] Motion estimation and filtered prediction for dynamic point cloud attribute compression ◼️
-* \[[Link](https://people.engr.tamu.edu/schaefer/research/L0Smoothing.pdf)] Mesh Denoising via L0 Minimization \[[code1](https://github.com/tatsy/L0Denoising) ⭐ 22 | 🐛 0 | 🌐 C++ | 📅 2016-06-03]\[[code2](https://github.com/AlonzoQuio/MeshDenoisingViaL0Minimization/tree/master) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2018-03-06]\[[code3](https://github.com/bldeng/GuidedDenoising/tree/master) ⭐ 215 | 🐛 8 | 🌐 C++ | 📅 2020-06-13] 🔥 `var.`
+* \[[Link](https://people.engr.tamu.edu/schaefer/research/L0Smoothing.pdf)] Mesh Denoising via L0 Minimization \[[code1](https://github.com/tatsy/L0Denoising) ⭐ 22 | 🐛 0 | 🌐 C++ | 📅 2016-06-03]\[[code2](https://github.com/AlonzoQuio/MeshDenoisingViaL0Minimization/tree/master) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2018-03-06]\[[code3](https://github.com/bldeng/GuidedDenoising/tree/master) ⭐ 216 | 🐛 8 | 🌐 C++ | 📅 2020-06-13] 🔥 `var.`
 * \[[Link](https://dl.acm.org/doi/10.1145/2421636.2421645)] Edge-aware point set resampling (AWLOP/EAR) 🔥
 
 # 2014
@@ -100,7 +100,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 * \[[Link](https://www.sciencedirect.com/science/article/abs/pii/S0167839615000345)] Denoising Point Sets via L0 Minimization 🔸 `var.`
 * \[[Link](https://ieeexplore.ieee.org/document/7418871)] 3D point cloud denoising and normal estimation for 3D surface reconstruction ◼️
-* \[[Link](http://sofienbouaziz.com/pdf/GuidedFilter_PG15.pdf)] Guided Mesh Normal Filtering \[[code](https://github.com/bldeng/GuidedDenoising/tree/master) ⭐ 215 | 🐛 8 | 🌐 C++ | 📅 2020-06-13] 🔥
+* \[[Link](http://sofienbouaziz.com/pdf/GuidedFilter_PG15.pdf)] Guided Mesh Normal Filtering \[[code](https://github.com/bldeng/GuidedDenoising/tree/master) ⭐ 216 | 🐛 8 | 🌐 C++ | 📅 2020-06-13] 🔥
 * \[[Link](https://www.scientific.net/AMM.741.204)] Adaptive Denoising Algorithm for Scanning Beam Points Based on Angle Thresholds ◼️
 * \[[Link](https://arxiv.org/pdf/1511.04902)] Graph-based denoising for time varying point clouds ◼️
 
@@ -294,4 +294,4 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
