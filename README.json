@@ -1,8 +1,634 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Bilateral mesh denoising [code] 🔸",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39660603,
+            "language": "C++",
+            "last_commit": "2020-06-13T22:24:29Z",
+            "owner": "bldeng",
+            "repo": "GuidedDenoising",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Non-Iterative, Feature-Preserving Mesh Smoothing [code] 🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 160019626,
+            "language": "C",
+            "last_commit": "2018-12-11T22:02:30Z",
+            "owner": "Oponn-1",
+            "repo": "3D-Point-Cloud-Denoising",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "2003"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] EC-Net: an Edge-aware Point set Consolidation Network [code] 🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139683958,
+            "language": "Python",
+            "last_commit": "2022-04-07T15:40:17Z",
+            "owner": "yulequan",
+            "repo": "EC-Net",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Static/Dynamic Filtering for Mesh Geometry [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111473510,
+            "language": "C++",
+            "last_commit": "2020-08-13T21:10:42Z",
+            "owner": "bldeng",
+            "repo": "MeshSDFilter",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense [code] 🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 238695272,
+            "language": "Python",
+            "last_commit": "2021-08-10T18:29:15Z",
+            "owner": "RyanHangZhou",
+            "repo": "tensorflow-DUP-Net",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "2018"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Differentiable Surface Splatting for Point-based Geometry Processing [code] 🔸",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 190398976,
+            "language": "Python",
+            "last_commit": "2026-04-13T17:48:45Z",
+            "owner": "yifita",
+            "repo": "DSS",
+            "stars": 447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] PointCleanNet: Learning to Denoise and Remove Outliers from Dense Point Clouds [code] 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170544333,
+            "language": "Python",
+            "last_commit": "2020-07-29T09:05:25Z",
+            "owner": "mrakotosaon",
+            "repo": "pointcleannet",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Total denoising: Unsupervised learning of 3D point cloud cleaning (TD) [code] 🔸",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 216931480,
+            "language": "Python",
+            "last_commit": "2023-07-13T10:17:49Z",
+            "owner": "phermosilla",
+            "repo": "TotalDenoising",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] 3D Point Cloud Denoising using Graph Laplacian Regularization of a Low Dimensional Manifold Model [code] 🔸",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 227967758,
+            "language": "MATLAB",
+            "last_commit": "2019-12-20T10:36:29Z",
+            "owner": "jzengust",
+            "repo": "ldmm_graph_laplacian_pointcloud_denoise",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Deep Unsupervised Learning of 3D Point Clouds via Graph Topology Inference and Filtering [code] 🔹",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 691685413,
+            "language": "Python",
+            "last_commit": "2023-09-14T17:11:56Z",
+            "owner": "merlresearch",
+            "repo": "FoldingNet_Plus",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "2019"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] CNN-based Lidar Point Cloud De-Noising in Adverse Weather [code] 🔸",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222952334,
+            "language": "Python",
+            "last_commit": "2022-06-22T07:19:31Z",
+            "owner": "rheinzler",
+            "repo": "PointCloudDeNoising",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Differentiable Manifold Reconstruction for Point Cloud Denoising [code] 🔸",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 282604040,
+            "language": "Python",
+            "last_commit": "2021-08-15T08:54:51Z",
+            "owner": "luost26",
+            "repo": "DMRDenoise",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Pointfilter: Point Cloud Filtering via Encoder Decoder Modeling [code] 🔹",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 297249231,
+            "language": "Python",
+            "last_commit": "2021-09-24T03:38:56Z",
+            "owner": "dongbo-BUAA-VR",
+            "repo": "Pointfilter",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Learning Graph-Convolutional Representations for Point Cloud Denoising (GPDNet) [code] 🔹",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 276843653,
+            "language": "Python",
+            "last_commit": "2020-07-03T10:05:56Z",
+            "owner": "diegovalsesia",
+            "repo": "GPDNet",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Deep Point Set Resampling via Gradient Fields [code] 🔹",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 504995326,
+            "language": "Python",
+            "last_commit": "2022-06-19T02:37:15Z",
+            "owner": "ChenhLiwnl",
+            "repo": "deep-rs",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Mesh Denoising with Facet Graph Convolutions [code] 🔹",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 330689098,
+            "language": "Python",
+            "last_commit": "2022-02-14T13:40:21Z",
+            "owner": "Elensil",
+            "repo": "Facet_Graph_Convolution",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "2020"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Score-Based Point Cloud Denoising [code] 🔥",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 388630300,
+            "language": "Python",
+            "last_commit": "2022-08-13T05:04:21Z",
+            "owner": "luost26",
+            "repo": "score-denoise",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] RePCD-Net: Feature-Aware Recurrent Point Cloud Denoising Network [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 451359324,
+            "language": "Python",
+            "last_commit": "2024-03-03T13:53:52Z",
+            "owner": "chenhonghua",
+            "repo": "RePCD-Net",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "2021"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 371639346,
+            "language": "Python",
+            "last_commit": "2022-08-11T15:54:32Z",
+            "owner": "unknownue",
+            "repo": "pdflow",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] MODNet: Multi-offset Point Cloud Denoising Network Customized for Multi-scale Patches [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 530508837,
+            "language": "Python",
+            "last_commit": "2023-02-22T11:19:09Z",
+            "owner": "hay-001",
+            "repo": "MODNet",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Structure-Aware Denoising for Real-world Noisy Point Clouds with Complex Structures [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 507114055,
+            "language": "Python",
+            "last_commit": "2023-08-19T06:17:58Z",
+            "owner": "rishg2",
+            "repo": "SCANING",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] IterativePFN: True Iterative Point Cloud Filtering [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 617878779,
+            "language": "Python",
+            "last_commit": "2023-08-23T00:21:51Z",
+            "owner": "ddsediri",
+            "repo": "IterativePFN",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] 4DenoiseNet: Adverse Weather Denoising From Adjacent Point Clouds [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 535631706,
+            "language": "Python",
+            "last_commit": "2023-01-17T10:14:14Z",
+            "owner": "alvariseppanen",
+            "repo": "4DenoiseNet",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Point Cloud Denoising via Momentum Ascent in Gradient Fields [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 657185006,
+            "language": "Python",
+            "last_commit": "2024-10-08T14:02:37Z",
+            "owner": "IndigoPurple",
+            "repo": "MAG",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] PCDNF: Revisiting Learning-based Point Cloud Denoising via Joint Normal Filtering [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 661543429,
+            "language": "Python",
+            "last_commit": "2023-08-04T05:32:36Z",
+            "owner": "LabZhengLiu",
+            "repo": "PCDNF",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Contrastive Learning for Joint Normal Estimation and Point Cloud Filtering [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 635305543,
+            "language": "Python",
+            "last_commit": "2023-08-24T04:40:53Z",
+            "owner": "ddsediri",
+            "repo": "CLJNEPCF",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Refine-Net: Normal Refinement Neural Network for Noisy Point Clouds [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 473158708,
+            "language": "C++",
+            "last_commit": "2022-04-09T12:51:43Z",
+            "owner": "hrzhou2",
+            "repo": "refinenet",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "2023"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] P2P-Bridge Diffusion Bridges for 3D Point Cloud [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 827262479,
+            "language": "Python",
+            "last_commit": "2024-09-30T15:31:39Z",
+            "owner": "matvogel",
+            "repo": "P2P-Bridge",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] TripleMixer A 3D Point Cloud Denoising Model or Adverse Weather [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 736205543,
+            "language": "Python",
+            "last_commit": "2026-04-14T09:50:57Z",
+            "owner": "Grandzxw",
+            "repo": "TripleMixer",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] PathNet: Path-Selective Point Cloud Denoising [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 696603015,
+            "language": "Python",
+            "last_commit": "2024-04-27T09:19:03Z",
+            "owner": "ZeyongWei",
+            "repo": "PathNet",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] StraightPCF: Straight Point Cloud Filtering [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 774222973,
+            "language": "Python",
+            "last_commit": "2024-10-07T02:50:10Z",
+            "owner": "ddsediri",
+            "repo": "StraightPCF",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Denoising Point Clouds in Latent Space via Graph Convolution and Invertible Neural Network [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 770795749,
+            "language": "Python",
+            "last_commit": "2024-08-02T12:25:26Z",
+            "owner": "yanbiao1",
+            "repo": "PD-LTS",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Self-supervised multi-echo point cloud denoising in snowfall [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 604987198,
+            "language": "Python",
+            "last_commit": "2024-07-18T05:57:13Z",
+            "owner": "alvariseppanen",
+            "repo": "SMEDen",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] PointCVaR: Risk-optimized Outlier Removal for Robust 3D Point Cloud Classification [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 757278312,
+            "language": "Python",
+            "last_commit": "2024-03-27T04:10:59Z",
+            "owner": "shinke-li",
+            "repo": "pointcvar",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "2024"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] SuperPC: A Single Diffusion Model for Point Cloud Completion, Upsampling, Denoising, and Colorization [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 596256407,
+            "language": "Python",
+            "last_commit": "2026-06-15T04:21:33Z",
+            "owner": "sair-lab",
+            "repo": "SuperPC",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] You Should Learn to Stop Denoising on Point Clouds in Advance (ASDN) [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 862789819,
+            "language": "Python",
+            "last_commit": "2025-09-28T07:12:49Z",
+            "owner": "git-guocc",
+            "repo": "ASDN",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Learning Normals of Noisy Points by Local Gradient-Aware Surface Filtering (LGSF) [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1010913730,
+            "language": "Python",
+            "last_commit": "2025-10-15T08:28:55Z",
+            "owner": "LeoQLi",
+            "repo": "LGSF",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Noise2Score3D: Tweedie's Approach for Unsupervised Point Cloud Denoising [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 887174853,
+            "language": "Python",
+            "last_commit": "2026-06-24T06:26:06Z",
+            "owner": "Bobby645",
+            "repo": "Noise2Score3D",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "2025"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-19T02:23:03.857Z",
+    "last_updated": "2026-08-19T12:05:27.132Z",
     "original_repository": "agarnung/awesome-3d-point-cloud-denoising",
+    "original_repository_id": 906397935,
     "original_repository_sha": "aee604c8ed9db63f3dc4329ca1eb89275804bfe6",
     "enhanced_repository": "enhansome/enhansome-3d-point-cloud-denoising",
     "enhanced_repository_description": null,
