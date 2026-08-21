@@ -243,7 +243,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 * \[[Link](https://arxiv.org/pdf/2408.16325)] P2P-Bridge Diffusion Bridges for 3D Point Cloud \[[code](https://github.com/matvogel/P2P-Bridge) ⭐ 111 | 🐛 4 | 🌐 Python | 📅 2024-09-30] ◼️
 * \[[Link](https://arxiv.org/pdf/2408.13802)] TripleMixer A 3D Point Cloud Denoising Model or Adverse Weather \[[code](https://github.com/Grandzxw/TripleMixer) ⭐ 79 | 🐛 6 | 🌐 Python | 📅 2026-04-14] ◼️
-* \[[Link](https://3d.bk.tudelft.nl/liangliang/publications/2024/pathnet/PathNet.pdf)] PathNet: Path-Selective Point Cloud Denoising \[[code](https://github.com/ZeyongWei/PathNet) ⭐ 45 | 🐛 5 | 🌐 Python | 📅 2024-04-27] ◼️
+* \[[Link](https://3d.bk.tudelft.nl/liangliang/publications/2024/pathnet/PathNet.pdf)] PathNet: Path-Selective Point Cloud Denoising \[[code](https://github.com/ZeyongWei/PathNet) ⭐ 46 | 🐛 5 | 🌐 Python | 📅 2024-04-27] ◼️
 * \[[Link](https://arxiv.org/pdf/2405.08322)] StraightPCF: Straight Point Cloud Filtering \[[code](https://github.com/ddsediri/StraightPCF) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2024-10-07] ◼️
 * \[[Link](https://openaccess.thecvf.com/content/CVPR2024/html/Mao_Denoising_Point_Clouds_in_Latent_Space_via_Graph_Convolution_and_CVPR_2024_paper.html)] Denoising Point Clouds in Latent Space via Graph Convolution and Invertible Neural Network \[[code](https://github.com/yanbiao1/PD-LTS?tab=readme-ov-file) ⭐ 33 | 🐛 4 | 🌐 Python | 📅 2024-08-02] ◼️
 * \[[Link](https://www.sciencedirect.com/science/article/pii/S0167865524002101)] Self-supervised multi-echo point cloud denoising in snowfall \[[code](https://github.com/alvariseppanen/SMEDen) ⚠️ Archived] ◼️
@@ -294,4 +294,4 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

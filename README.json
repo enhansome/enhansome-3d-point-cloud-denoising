@@ -492,7 +492,7 @@
             "last_commit": "2024-04-27T09:19:03Z",
             "owner": "ZeyongWei",
             "repo": "PathNet",
-            "stars": 45
+            "stars": 46
           }
         },
         {
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:21:41.592Z",
+    "last_updated": "2026-08-21T02:36:12.347Z",
     "original_repository": "agarnung/awesome-3d-point-cloud-denoising",
     "original_repository_id": 906397935,
     "original_repository_sha": "aee604c8ed9db63f3dc4329ca1eb89275804bfe6",
