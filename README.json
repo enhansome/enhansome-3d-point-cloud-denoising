@@ -15,7 +15,7 @@
             "last_commit": "2020-06-13T22:24:29Z",
             "owner": "bldeng",
             "repo": "GuidedDenoising",
-            "stars": 215
+            "stars": 216
           }
         },
         {
@@ -507,7 +507,7 @@
             "last_commit": "2024-10-07T02:50:10Z",
             "owner": "ddsediri",
             "repo": "StraightPCF",
-            "stars": 36
+            "stars": 37
           }
         },
         {
@@ -626,7 +626,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:20:27.421Z",
+    "last_updated": "2026-08-23T02:36:13.568Z",
     "original_repository": "agarnung/awesome-3d-point-cloud-denoising",
     "original_repository_id": 906397935,
     "original_repository_sha": "aee604c8ed9db63f3dc4329ca1eb89275804bfe6",
