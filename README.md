@@ -63,9 +63,9 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 # 2009
 
+* \[[Link](https://www.cs.sfu.ca/~haoz/pubs/siga09_consolidater_reduced.pdf)] Consolidation of Unorganized Point Clouds for Surface Reconstruction (WLOP) \[[code](https://github.com/jinseokbae/WLOP-based-PointCloudDenoiser) ⭐ 26 | 🐛 0 | 🌐 MATLAB | 📅 2021-02-01] 🌟
 * \[[Link](https://ieeexplore.ieee.org/document/5137578)] Noise reduction and modeling methods of TLS point cloud based on R-tree ◼️
 * \[[Link](https://ieeexplore.ieee.org/document/5402768)] Algorithm for 3D Point Cloud Denoising ◼️ `trad.`
-* \[[Link](https://www.cs.sfu.ca/~haoz/pubs/siga09_consolidater_reduced.pdf)] Consolidation of Unorganized Point Clouds for Surface Reconstruction (WLOP) \[[code](https://github.com/jinseokbae/WLOP-based-PointCloudDenoiser) ⭐ 26 | 🐛 0 | 🌐 MATLAB | 📅 2021-02-01] 🌟
 * \[[Link](https://ieeexplore.ieee.org/document/5287748)] 3D Body Point Cloud Data Denoising and Registration ◼️
 
 # 2010
@@ -75,8 +75,8 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 # 2011
 
-* \[[Link](https://chpc.greyc.fr/images/Documents/Publications/2011_06_Nonlocal_PDEs-Based_Morphology_on_Weighted_Graphs_for_Image_and_Data_Processing.pdf)] Nonlocal PDEs-Based Morphology on Weighted Graphs for Image and Data Processing ◼️ `pde`
 * \[[Link](https://hongbofu.people.ust.hk/doc/bilateral_normal_filtering_tvcg11.pdf)] Bilateral Normal Filtering for Mesh Denoising \[[code](https://github.com/bldeng/GuidedDenoising/tree/master) ⭐ 216 | 🐛 8 | 🌐 C++ | 📅 2020-06-13] 🌟 `trad.`
+* \[[Link](https://chpc.greyc.fr/images/Documents/Publications/2011_06_Nonlocal_PDEs-Based_Morphology_on_Weighted_Graphs_for_Image_and_Data_Processing.pdf)] Nonlocal PDEs-Based Morphology on Weighted Graphs for Image and Data Processing ◼️ `pde`
 
 # 2012
 
@@ -85,8 +85,8 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 # 2013
 
-* \[[Link](https://par.nsf.gov/servlets/purl/10443276)] Motion estimation and filtered prediction for dynamic point cloud attribute compression ◼️
 * \[[Link](https://people.engr.tamu.edu/schaefer/research/L0Smoothing.pdf)] Mesh Denoising via L0 Minimization \[[code1](https://github.com/tatsy/L0Denoising) ⭐ 22 | 🐛 0 | 🌐 C++ | 📅 2016-06-03]\[[code2](https://github.com/AlonzoQuio/MeshDenoisingViaL0Minimization/tree/master) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2018-03-06]\[[code3](https://github.com/bldeng/GuidedDenoising/tree/master) ⭐ 216 | 🐛 8 | 🌐 C++ | 📅 2020-06-13] 🔥 `var.`
+* \[[Link](https://par.nsf.gov/servlets/purl/10443276)] Motion estimation and filtered prediction for dynamic point cloud attribute compression ◼️
 * \[[Link](https://dl.acm.org/doi/10.1145/2421636.2421645)] Edge-aware point set resampling (AWLOP/EAR) 🔥
 
 # 2014
@@ -98,9 +98,9 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 # 2015
 
+* \[[Link](http://sofienbouaziz.com/pdf/GuidedFilter_PG15.pdf)] Guided Mesh Normal Filtering \[[code](https://github.com/bldeng/GuidedDenoising/tree/master) ⭐ 216 | 🐛 8 | 🌐 C++ | 📅 2020-06-13] 🔥
 * \[[Link](https://www.sciencedirect.com/science/article/abs/pii/S0167839615000345)] Denoising Point Sets via L0 Minimization 🔸 `var.`
 * \[[Link](https://ieeexplore.ieee.org/document/7418871)] 3D point cloud denoising and normal estimation for 3D surface reconstruction ◼️
-* \[[Link](http://sofienbouaziz.com/pdf/GuidedFilter_PG15.pdf)] Guided Mesh Normal Filtering \[[code](https://github.com/bldeng/GuidedDenoising/tree/master) ⭐ 216 | 🐛 8 | 🌐 C++ | 📅 2020-06-13] 🔥
 * \[[Link](https://www.scientific.net/AMM.741.204)] Adaptive Denoising Algorithm for Scanning Beam Points Based on Angle Thresholds ◼️
 * \[[Link](https://arxiv.org/pdf/1511.04902)] Graph-based denoising for time varying point clouds ◼️
 
@@ -114,9 +114,9 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 # 2017
 
+* \[[Link](https://link.springer.com/article/10.1007/s11042-017-5310-9)] Guided 3D point cloud filtering \[[code](https://github.com/aipiano/guided-filter-point-cloud-denoise) ⭐ 95 | 🐛 2 | 🌐 Python | 📅 2019-05-07] ◼️
 * \[[Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13068)] Point Cloud Denoising via Moving RPCA 🔸
 * \[[Link](https://www.ipol.im/pub/art/2017/179/revisions/2022-01-01/article.pdf)] The bilateral filter for point clouds \[[code](https://www.ipol.im/pub/art/2017/179/)] 🔹 `trad.`
-* \[[Link](https://link.springer.com/article/10.1007/s11042-017-5310-9)] Guided 3D point cloud filtering \[[code](https://github.com/aipiano/guided-filter-point-cloud-denoise) ⭐ 95 | 🐛 2 | 🌐 Python | 📅 2019-05-07] ◼️
 * \[[Link](https://inria.hal.science/hal-02124225v1/document)] Hierarchical Denoising Method of Crop 3D Point Cloud
   Based on Multi-view Image Reconstruction ◼️
 * \[[Link](https://onlinelibrary.wiley.com/doi/10.1111/cgf.13272)] Data-Driven Sparse Priors of 3D Shapes ◼️
@@ -241,7 +241,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 # 2024
 
-* \[[Link](https://arxiv.org/pdf/2408.16325)] P2P-Bridge Diffusion Bridges for 3D Point Cloud \[[code](https://github.com/matvogel/P2P-Bridge) ⭐ 111 | 🐛 4 | 🌐 Python | 📅 2024-09-30] ◼️
+* \[[Link](https://arxiv.org/pdf/2408.16325)] P2P-Bridge Diffusion Bridges for 3D Point Cloud \[[code](https://github.com/matvogel/P2P-Bridge) ⭐ 112 | 🐛 4 | 🌐 Python | 📅 2024-09-30] ◼️
 * \[[Link](https://arxiv.org/pdf/2408.13802)] TripleMixer A 3D Point Cloud Denoising Model or Adverse Weather \[[code](https://github.com/Grandzxw/TripleMixer) ⭐ 79 | 🐛 6 | 🌐 Python | 📅 2026-04-14] ◼️
 * \[[Link](https://3d.bk.tudelft.nl/liangliang/publications/2024/pathnet/PathNet.pdf)] PathNet: Path-Selective Point Cloud Denoising \[[code](https://github.com/ZeyongWei/PathNet) ⭐ 46 | 🐛 5 | 🌐 Python | 📅 2024-04-27] ◼️
 * \[[Link](https://arxiv.org/pdf/2405.08322)] StraightPCF: Straight Point Cloud Filtering \[[code](https://github.com/ddsediri/StraightPCF) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2024-10-07] ◼️
@@ -277,7 +277,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 # 2026
 
 * \[[Link](https://arxiv.org/pdf/2605.26894)] SIMPC: Learning Self-Induced Mirror-Point Consistency for Unsupervised Point Cloud Denoising ◼️ `un.` `dl.`
-* \[[Link](https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_Routing_on_Demand_DSNet_for_Efficient_Progressive_Point_Cloud_Denoising_CVPR_2026_paper.pdf)] Routing on Demand: DSNet for Efficient Progressive Point Cloud Denoising \[[code](https://github.com/cz-61/DSNet) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-08-12] ◼️ `dl.`
+* \[[Link](https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_Routing_on_Demand_DSNet_for_Efficient_Progressive_Point_Cloud_Denoising_CVPR_2026_paper.pdf)] Routing on Demand: DSNet for Efficient Progressive Point Cloud Denoising \[[code](https://github.com/cz-61/DSNet) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-08-12] ◼️ `dl.`
 
 <a href="https://www.star-history.com/#agarnung/awesome-3d-point-cloud-denoising&type=date&legend=top-left">
  <picture>

@@ -42,6 +42,132 @@
         {
           "node_type": "item",
           "title": "[Link",
+          "description": "] Fast and Effective Feature-Preserving Mesh Denoising [code] 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39660603,
+            "language": "C++",
+            "last_commit": "2020-06-13T22:24:29Z",
+            "owner": "bldeng",
+            "repo": "GuidedDenoising",
+            "stars": 216
+          }
+        }
+      ],
+      "title": "2007"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Consolidation of Unorganized Point Clouds for Surface Reconstruction (WLOP) [code] 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 221189443,
+            "language": "MATLAB",
+            "last_commit": "2021-02-01T06:14:44Z",
+            "owner": "jinseokbae",
+            "repo": "WLOP-based-PointCloudDenoiser",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "2009"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Bilateral Normal Filtering for Mesh Denoising [code] 🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39660603,
+            "language": "C++",
+            "last_commit": "2020-06-13T22:24:29Z",
+            "owner": "bldeng",
+            "repo": "GuidedDenoising",
+            "stars": 216
+          }
+        }
+      ],
+      "title": "2011"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Mesh Denoising via L0 Minimization [code1][code2][code3] 🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47606873,
+            "language": "C++",
+            "last_commit": "2016-06-03T07:58:44Z",
+            "owner": "tatsy",
+            "repo": "L0Denoising",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "2013"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Guided Mesh Normal Filtering [code] 🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39660603,
+            "language": "C++",
+            "last_commit": "2020-06-13T22:24:29Z",
+            "owner": "bldeng",
+            "repo": "GuidedDenoising",
+            "stars": 216
+          }
+        }
+      ],
+      "title": "2015"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[Link",
+          "description": "] Guided 3D point cloud filtering [code] ◼️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 185334834,
+            "language": "Python",
+            "last_commit": "2019-05-07T06:28:40Z",
+            "owner": "aipiano",
+            "repo": "guided-filter-point-cloud-denoise",
+            "stars": 95
+          }
+        }
+      ],
+      "title": "2017"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[Link",
           "description": "] EC-Net: an Edge-aware Point set Consolidation Network [code] 🔥",
           "children": [],
           "repo_info": {
@@ -462,7 +588,7 @@
             "last_commit": "2024-09-30T15:31:39Z",
             "owner": "matvogel",
             "repo": "P2P-Bridge",
-            "stars": 111
+            "stars": 112
           }
         },
         {
@@ -626,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:36:17.604Z",
+    "last_updated": "2026-08-24T14:39:45.619Z",
     "original_repository": "agarnung/awesome-3d-point-cloud-denoising",
     "original_repository_id": 906397935,
     "original_repository_sha": "aee604c8ed9db63f3dc4329ca1eb89275804bfe6",
