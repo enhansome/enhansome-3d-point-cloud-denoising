@@ -277,7 +277,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 # 2026
 
 * \[[Link](https://arxiv.org/pdf/2605.26894)] SIMPC: Learning Self-Induced Mirror-Point Consistency for Unsupervised Point Cloud Denoising ◼️ `un.` `dl.`
-* \[[Link](https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_Routing_on_Demand_DSNet_for_Efficient_Progressive_Point_Cloud_Denoising_CVPR_2026_paper.pdf)] Routing on Demand: DSNet for Efficient Progressive Point Cloud Denoising \[[code](https://github.com/cz-61/DSNet) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-08-12] ◼️ `dl.`
+* \[[Link](https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_Routing_on_Demand_DSNet_for_Efficient_Progressive_Point_Cloud_Denoising_CVPR_2026_paper.pdf)] Routing on Demand: DSNet for Efficient Progressive Point Cloud Denoising \[[code](https://github.com/cz-61/DSNet) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-08-12] ◼️ `dl.`
 
 <a href="https://www.star-history.com/#agarnung/awesome-3d-point-cloud-denoising&type=date&legend=top-left">
  <picture>
@@ -294,4 +294,4 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
