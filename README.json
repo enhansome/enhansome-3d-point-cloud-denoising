@@ -426,7 +426,7 @@
             "open_issues": 6,
             "owner": "rheinzler",
             "repo": "PointCloudDeNoising",
-            "stars": 135,
+            "stars": 136,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T05:44:39.179Z",
+    "last_updated": "2026-09-04T05:50:18.380Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",

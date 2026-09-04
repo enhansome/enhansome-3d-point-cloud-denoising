@@ -156,7 +156,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 # 2020
 
-* \[[Link](https://arxiv.org/pdf/1912.03874)] CNN-based Lidar Point Cloud De-Noising in Adverse Weather \[[code](https://github.com/rheinzler/PointCloudDeNoising) ⭐ 135 | 🐛 6 | 🌐 Python | 📅 2022-06-22] 🔸
+* \[[Link](https://arxiv.org/pdf/1912.03874)] CNN-based Lidar Point Cloud De-Noising in Adverse Weather \[[code](https://github.com/rheinzler/PointCloudDeNoising) ⭐ 136 | 🐛 6 | 🌐 Python | 📅 2022-06-22] 🔸
 * \[[Link](https://arxiv.org/pdf/2007.13551)] Differentiable Manifold Reconstruction for Point Cloud Denoising \[[code](https://github.com/luost26/DMRDenoise) ⚠️ Archived] 🔸 `un.`
 * \[[Link](https://arxiv.org/pdf/2002.05968)] Pointfilter: Point Cloud Filtering via Encoder Decoder Modeling \[[code](https://github.com/dongbo-BUAA-VR/Pointfilter) ⭐ 70 | 🐛 10 | 🌐 Python | 📅 2021-09-24] 🔹
 * \[[Link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650103.pdf)] Learning Graph-Convolutional Representations for Point Cloud Denoising (GPDNet) \[[code](https://github.com/diegovalsesia/GPDNet) ⭐ 32 | 🐛 7 | 🌐 Python | 📅 2020-07-03] 🔹
@@ -294,4 +294,4 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
