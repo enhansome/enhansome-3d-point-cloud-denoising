@@ -245,7 +245,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 * \[[Link](https://arxiv.org/pdf/2408.13802)] TripleMixer A 3D Point Cloud Denoising Model or Adverse Weather \[[code](https://github.com/Grandzxw/TripleMixer) ⭐ 79 | 🐛 6 | 🌐 Python | 📅 2026-04-14] ◼️
 * \[[Link](https://3d.bk.tudelft.nl/liangliang/publications/2024/pathnet/PathNet.pdf)] PathNet: Path-Selective Point Cloud Denoising \[[code](https://github.com/ZeyongWei/PathNet) ⭐ 46 | 🐛 5 | 🌐 Python | 📅 2024-04-27] ◼️
 * \[[Link](https://arxiv.org/pdf/2405.08322)] StraightPCF: Straight Point Cloud Filtering \[[code](https://github.com/ddsediri/StraightPCF) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2024-10-07] ◼️
-* \[[Link](https://openaccess.thecvf.com/content/CVPR2024/html/Mao_Denoising_Point_Clouds_in_Latent_Space_via_Graph_Convolution_and_CVPR_2024_paper.html)] Denoising Point Clouds in Latent Space via Graph Convolution and Invertible Neural Network \[[code](https://github.com/yanbiao1/PD-LTS?tab=readme-ov-file) ⭐ 34 | 🐛 4 | 🌐 Python | 📅 2024-08-02] ◼️
+* \[[Link](https://openaccess.thecvf.com/content/CVPR2024/html/Mao_Denoising_Point_Clouds_in_Latent_Space_via_Graph_Convolution_and_CVPR_2024_paper.html)] Denoising Point Clouds in Latent Space via Graph Convolution and Invertible Neural Network \[[code](https://github.com/yanbiao1/PD-LTS?tab=readme-ov-file) ⭐ 35 | 🐛 4 | 🌐 Python | 📅 2024-08-02] ◼️
 * \[[Link](https://www.sciencedirect.com/science/article/pii/S0167865524002101)] Self-supervised multi-echo point cloud denoising in snowfall \[[code](https://github.com/alvariseppanen/SMEDen) ⚠️ Archived] ◼️
 * \[[Link](https://arxiv.org/pdf/2307.10875)] PointCVaR: Risk-optimized Outlier Removal for Robust 3D Point Cloud Classification \[[code](https://github.com/shinke-li/pointcvar) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2024-03-27] ◼️
 * \[[Link](https://arxiv.org/pdf/2401.09721)] Fast graph-based denoising point cloud color information ◼️
@@ -277,7 +277,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 # 2026
 
 * \[[Link](https://arxiv.org/pdf/2605.26894)] SIMPC: Learning Self-Induced Mirror-Point Consistency for Unsupervised Point Cloud Denoising ◼️ `un.` `dl.`
-* \[[Link](https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_Routing_on_Demand_DSNet_for_Efficient_Progressive_Point_Cloud_Denoising_CVPR_2026_paper.pdf)] Routing on Demand: DSNet for Efficient Progressive Point Cloud Denoising \[[code](https://github.com/cz-61/DSNet) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-08-12] ◼️ `dl.`
+* \[[Link](https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_Routing_on_Demand_DSNet_for_Efficient_Progressive_Point_Cloud_Denoising_CVPR_2026_paper.pdf)] Routing on Demand: DSNet for Efficient Progressive Point Cloud Denoising \[[code](https://github.com/cz-61/DSNet) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-08-12] ◼️ `dl.`
 
 <a href="https://www.star-history.com/#agarnung/awesome-3d-point-cloud-denoising&type=date&legend=top-left">
  <picture>
@@ -294,4 +294,4 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._

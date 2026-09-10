@@ -914,7 +914,7 @@
             "open_issues": 4,
             "owner": "yanbiao1",
             "repo": "PD-LTS",
-            "stars": 34,
+            "stars": 35,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T05:57:06.669Z",
+    "last_updated": "2026-09-10T05:55:42.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",
