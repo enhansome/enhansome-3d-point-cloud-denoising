@@ -266,7 +266,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 # 2025
 
 * \[[Link](https://arxiv.org/pdf/2503.14558)] SuperPC: A Single Diffusion Model for Point Cloud Completion, Upsampling, Denoising, and Colorization \[[code](https://github.com/sair-lab/SuperPC) ⭐ 20 | 🐛 8 | 🌐 Python | 📅 2026-06-15] ◼️ `dl.` `res.` `oth.`
-* \[[Link](https://ojs.aaai.org/index.php/AAAI/article/view/32331)] You Should Learn to Stop Denoising on Point Clouds in Advance (ASDN) \[[code](https://github.com/git-guocc/ASDN) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2025-09-28] ◼️ `dl.`
+* \[[Link](https://ojs.aaai.org/index.php/AAAI/article/view/32331)] You Should Learn to Stop Denoising on Point Clouds in Advance (ASDN) \[[code](https://github.com/git-guocc/ASDN) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2025-09-28] ◼️ `dl.`
 * \[[Link](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Learning_Normals_of_Noisy_Points_by_Local_Gradient-Aware_Surface_Filtering_ICCV_2025_paper.pdf)] Learning Normals of Noisy Points by Local Gradient-Aware Surface Filtering (LGSF) \[[code](https://github.com/LeoQLi/LGSF) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2025-10-15] ◼️ `ne.` `dl.`
 * \[[Link](https://arxiv.org/pdf/2503.09283)] Noise2Score3D: Tweedie's Approach for Unsupervised Point Cloud Denoising \[[code](https://github.com/Bobby645/Noise2Score3D) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-06-24] ◼️ `un.` `dl.`
 * \[[Link](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1490660/full)] LiDAR point cloud denoising for individual tree extraction based on the Noise4Denoise ◼️ `un.`
@@ -294,4 +294,4 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
