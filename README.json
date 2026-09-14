@@ -1066,7 +1066,7 @@
             "open_issues": 0,
             "owner": "Bobby645",
             "repo": "Noise2Score3D",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T06:05:03.485Z",
+    "last_updated": "2026-09-14T06:12:18.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",
