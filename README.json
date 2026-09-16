@@ -872,7 +872,7 @@
             "open_issues": 5,
             "owner": "ZeyongWei",
             "repo": "PathNet",
-            "stars": 46,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T06:08:22.014Z",
+    "last_updated": "2026-09-16T05:58:14.878Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",
