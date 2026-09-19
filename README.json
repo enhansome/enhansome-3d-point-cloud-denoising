@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "bldeng",
             "repo": "GuidedDenoising",
-            "stars": 216,
+            "stars": 217,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -67,7 +67,7 @@
             "open_issues": 8,
             "owner": "bldeng",
             "repo": "GuidedDenoising",
-            "stars": 216,
+            "stars": 217,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -126,7 +126,7 @@
             "open_issues": 8,
             "owner": "bldeng",
             "repo": "GuidedDenoising",
-            "stars": 216,
+            "stars": 217,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -180,7 +180,7 @@
             "open_issues": 8,
             "owner": "bldeng",
             "repo": "GuidedDenoising",
-            "stars": 216,
+            "stars": 217,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -687,7 +687,7 @@
             "open_issues": 2,
             "owner": "ddsediri",
             "repo": "IterativePFN",
-            "stars": 69,
+            "stars": 70,
             "topics": [
               "denoising",
               "filtering",
@@ -872,7 +872,7 @@
             "open_issues": 5,
             "owner": "ZeyongWei",
             "repo": "PathNet",
-            "stars": 47,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T05:52:32.100Z",
+    "last_updated": "2026-09-19T05:48:42.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",
