@@ -472,7 +472,7 @@
             "license": "MIT",
             "last_commit": "2021-09-24T03:38:56Z",
             "open_issues": 10,
-            "owner": "dongbo-BUAA-VR",
+            "owner": "dongbo-z",
             "repo": "Pointfilter",
             "stars": 70,
             "topics": []
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T06:10:19.523Z",
+    "last_updated": "2026-09-21T06:15:54.604Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",
