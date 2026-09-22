@@ -336,7 +336,7 @@
             "open_issues": 2,
             "owner": "mrakotosaon",
             "repo": "pointcleannet",
-            "stars": 293,
+            "stars": 294,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -996,7 +996,7 @@
             "open_issues": 8,
             "owner": "sair-lab",
             "repo": "SuperPC",
-            "stars": 20,
+            "stars": 21,
             "topics": [
               "diffusion-models",
               "point-cloud-colorization",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T06:15:54.604Z",
+    "last_updated": "2026-09-22T06:08:29.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",
@@ -1084,11 +1084,11 @@
       "id": 906397935,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-08-10T17:28:36Z",
+      "last_commit": "2026-09-21T21:48:21Z",
       "open_issues": 0,
       "owner": "agarnung",
       "repo": "awesome-3d-point-cloud-denoising",
-      "stars": 127,
+      "stars": 128,
       "topics": [
         "3d",
         "3d-computer-vision",
@@ -1105,7 +1105,7 @@
         "point-cloud"
       ]
     },
-    "original_repository_sha": "aee604c8ed9db63f3dc4329ca1eb89275804bfe6",
+    "original_repository_sha": "7cc3fbeb2a2543d382d1ce4365da3eb9b5956e29",
     "enhanced_repository": "enhansome/enhansome-3d-point-cloud-denoising",
     "enhanced_repository_description": null,
     "title": "Awesome Overview with stars"
