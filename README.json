@@ -570,7 +570,7 @@
             "open_issues": 5,
             "owner": "luost26",
             "repo": "score-denoise",
-            "stars": 216,
+            "stars": 215,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -914,7 +914,7 @@
             "open_issues": 4,
             "owner": "yanbiao1",
             "repo": "PD-LTS",
-            "stars": 35,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T06:47:30.125Z",
+    "last_updated": "2026-09-29T06:50:35.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",
@@ -1088,7 +1088,7 @@
       "open_issues": 0,
       "owner": "agarnung",
       "repo": "awesome-3d-point-cloud-denoising",
-      "stars": 128,
+      "stars": 130,
       "topics": [
         "3d",
         "3d-computer-vision",
