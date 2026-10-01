@@ -108,7 +108,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 # 2017
 
-* \[[Link](https://link.springer.com/article/10.1007/s11042-017-5310-9)] Guided 3D point cloud filtering \[[code](https://github.com/aipiano/guided-filter-point-cloud-denoise) ⭐ 95 | 🐛 2 | 🌐 Python | 📅 2019-05-07] ◼️ `trad.`
+* \[[Link](https://link.springer.com/article/10.1007/s11042-017-5310-9)] Guided 3D point cloud filtering \[[code](https://github.com/aipiano/guided-filter-point-cloud-denoise) ⭐ 96 | 🐛 2 | 🌐 Python | 📅 2019-05-07] ◼️ `trad.`
 * \[[Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13068)] Point Cloud Denoising via Moving RPCA 🔸 `trad.` `var.`
 * \[[Link](https://www.ipol.im/pub/art/2017/179/revisions/2022-01-01/article.pdf)] The bilateral filter for point clouds \[[code](https://www.ipol.im/pub/art/2017/179/)] 🔹 `trad.`
 * \[[Link](https://inria.hal.science/hal-02124225v1/document)] Hierarchical Denoising Method of Crop 3D Point Cloud
@@ -301,4 +301,4 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._

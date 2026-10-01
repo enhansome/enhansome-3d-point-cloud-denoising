@@ -207,7 +207,7 @@
             "open_issues": 2,
             "owner": "aipiano",
             "repo": "guided-filter-point-cloud-denoise",
-            "stars": 95,
+            "stars": 96,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T06:38:57.027Z",
+    "last_updated": "2026-10-01T07:09:24.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",
