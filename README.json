@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:13:25.452Z",
+    "last_updated": "2026-10-07T07:11:08.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",
@@ -1084,7 +1084,7 @@
       "id": 906397935,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-21T21:48:21Z",
+      "last_commit": "2026-10-06T22:35:32Z",
       "open_issues": 0,
       "owner": "agarnung",
       "repo": "awesome-3d-point-cloud-denoising",
@@ -1105,7 +1105,7 @@
         "point-cloud"
       ]
     },
-    "original_repository_sha": "7cc3fbeb2a2543d382d1ce4365da3eb9b5956e29",
+    "original_repository_sha": "6976804f1fcd96b552344a001f4c111c60aaddc7",
     "enhanced_repository": "enhansome/enhansome-3d-point-cloud-denoising",
     "enhanced_repository_description": null,
     "title": "Awesome Overview with stars"
