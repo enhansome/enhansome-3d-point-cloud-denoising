@@ -956,7 +956,7 @@
             "open_issues": 1,
             "owner": "shinke-li",
             "repo": "pointcvar",
-            "stars": 16,
+            "stars": 17,
             "topics": [
               "3d",
               "3d-point-cloud",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T07:11:08.988Z",
+    "last_updated": "2026-10-08T07:17:50.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",

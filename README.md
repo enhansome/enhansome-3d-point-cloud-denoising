@@ -249,7 +249,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 * \[[Link](https://arxiv.org/pdf/2405.08322)] StraightPCF: Straight Point Cloud Filtering \[[code](https://github.com/ddsediri/StraightPCF) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2024-10-07] ◼️ `dl.`
 * \[[Link](https://openaccess.thecvf.com/content/CVPR2024/html/Mao_Denoising_Point_Clouds_in_Latent_Space_via_Graph_Convolution_and_CVPR_2024_paper.html)] Denoising Point Clouds in Latent Space via Graph Convolution and Invertible Neural Network \[[code](https://github.com/yanbiao1/PD-LTS?tab=readme-ov-file) ⭐ 34 | 🐛 4 | 🌐 Python | 📅 2024-08-02] ◼️ `dl.`
 * \[[Link](https://www.sciencedirect.com/science/article/pii/S0167865524002101)] Self-supervised multi-echo point cloud denoising in snowfall \[[code](https://github.com/alvariseppanen/SMEDen) ⚠️ Archived] ◼️ `dl.` `un.`
-* \[[Link](https://arxiv.org/pdf/2307.10875)] PointCVaR: Risk-optimized Outlier Removal for Robust 3D Point Cloud Classification \[[code](https://github.com/shinke-li/pointcvar) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2024-03-27] ◼️ `dl.` `oth.`
+* \[[Link](https://arxiv.org/pdf/2307.10875)] PointCVaR: Risk-optimized Outlier Removal for Robust 3D Point Cloud Classification \[[code](https://github.com/shinke-li/pointcvar) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2024-03-27] ◼️ `dl.` `oth.`
 * \[[Link](https://arxiv.org/pdf/2401.09721)] Fast graph-based denoising point cloud color information ◼️ `var.`
 * \[[Link](https://www.mdpi.com/2071-1050/16/5/2077)] Three-Dimensional Point Cloud Denoising for Tunnel Data by Combining Intensity and Geometry Information ◼️ `trad.`
 * \[[Link](https://www.mdpi.com/2072-4292/16/13/2347)] Point Cloud Denoising in Outdoor Real-World Scenes Based on Measurable Segmentation ◼️ `dl.`
@@ -301,4 +301,4 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
