@@ -243,7 +243,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 # 2024
 
-* \[[Link](https://arxiv.org/pdf/2408.16325)] P2P-Bridge Diffusion Bridges for 3D Point Cloud \[[code](https://github.com/matvogel/P2P-Bridge) ⭐ 112 | 🐛 4 | 🌐 Python | 📅 2024-09-30] ◼️ `dl.`
+* \[[Link](https://arxiv.org/pdf/2408.16325)] P2P-Bridge Diffusion Bridges for 3D Point Cloud \[[code](https://github.com/matvogel/P2P-Bridge) ⭐ 111 | 🐛 4 | 🌐 Python | 📅 2024-09-30] ◼️ `dl.`
 * \[[Link](https://arxiv.org/pdf/2408.13802)] TripleMixer A 3D Point Cloud Denoising Model or Adverse Weather \[[code](https://github.com/Grandzxw/TripleMixer) ⭐ 79 | 🐛 6 | 🌐 Python | 📅 2026-04-14] ◼️ `dl.`
 * \[[Link](https://3d.bk.tudelft.nl/liangliang/publications/2024/pathnet/PathNet.pdf)] PathNet: Path-Selective Point Cloud Denoising \[[code](https://github.com/ZeyongWei/PathNet) ⭐ 48 | 🐛 5 | 🌐 Python | 📅 2024-04-27] ◼️ `dl.`
 * \[[Link](https://arxiv.org/pdf/2405.08322)] StraightPCF: Straight Point Cloud Filtering \[[code](https://github.com/ddsediri/StraightPCF) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2024-10-07] ◼️ `dl.`
@@ -301,4 +301,4 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._

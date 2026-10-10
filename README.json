@@ -830,7 +830,7 @@
             "open_issues": 4,
             "owner": "matvogel",
             "repo": "P2P-Bridge",
-            "stars": 112,
+            "stars": 111,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T07:20:22.325Z",
+    "last_updated": "2026-10-10T07:00:26.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",
