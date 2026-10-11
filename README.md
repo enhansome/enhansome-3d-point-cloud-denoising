@@ -135,7 +135,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 # 2019
 
-* \[[Link](https://arxiv.org/pdf/1906.04173)] Differentiable Surface Splatting for Point-based Geometry Processing \[[code](https://github.com/yifita/DSS) ⭐ 447 | 🐛 12 | 🌐 Python | 📅 2026-04-13] 🔸 `rec.` `dl.`
+* \[[Link](https://arxiv.org/pdf/1906.04173)] Differentiable Surface Splatting for Point-based Geometry Processing \[[code](https://github.com/yifita/DSS) ⭐ 446 | 🐛 12 | 🌐 Python | 📅 2026-04-13] 🔸 `rec.` `dl.`
 * \[[Link](https://arxiv.org/pdf/1901.01060)] PointCleanNet: Learning to Denoise and Remove Outliers from Dense Point Clouds \[[code](https://github.com/mrakotosaon/pointcleannet) ⭐ 294 | 🐛 2 | 🌐 Python | 📅 2020-07-29] 🌟 `dl.`
 * \[[Link](https://arxiv.org/pdf/1904.07615)] Total denoising: Unsupervised learning of 3D point cloud cleaning (TD) \[[code](https://github.com/phermosilla/TotalDenoising) ⚠️ Archived] 🔸 `un.`
 * \[[Link](https://arxiv.org/pdf/1803.07252)] 3D Point Cloud Denoising using Graph Laplacian Regularization of a Low Dimensional Manifold Model \[[code](https://github.com/jzengust/ldmm_graph_laplacian_pointcloud_denoise) ⭐ 40 | 🐛 1 | 🌐 MATLAB | 📅 2019-12-20] 🔸 `var.`
@@ -301,4 +301,4 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
