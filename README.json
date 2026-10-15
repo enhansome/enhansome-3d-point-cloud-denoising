@@ -993,10 +993,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-06-15T04:21:33Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "sair-lab",
             "repo": "SuperPC",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "diffusion-models",
               "point-cloud-colorization",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T06:06:06.412Z",
+    "last_updated": "2026-10-15T05:51:41.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",
