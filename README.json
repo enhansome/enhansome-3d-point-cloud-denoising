@@ -893,7 +893,7 @@
             "open_issues": 0,
             "owner": "ddsediri",
             "repo": "StraightPCF",
-            "stars": 37,
+            "stars": 38,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T05:51:41.574Z",
+    "last_updated": "2026-10-16T05:48:02.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",
