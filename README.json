@@ -336,7 +336,7 @@
             "open_issues": 2,
             "owner": "mrakotosaon",
             "repo": "pointcleannet",
-            "stars": 294,
+            "stars": 293,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -570,7 +570,7 @@
             "open_issues": 5,
             "owner": "luost26",
             "repo": "score-denoise",
-            "stars": 215,
+            "stars": 214,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -687,7 +687,7 @@
             "open_issues": 2,
             "owner": "ddsediri",
             "repo": "IterativePFN",
-            "stars": 70,
+            "stars": 69,
             "topics": [
               "denoising",
               "filtering",
@@ -755,7 +755,7 @@
             "open_issues": 2,
             "owner": "LabZhengLiu",
             "repo": "PCDNF",
-            "stars": 18,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -1024,7 +1024,7 @@
             "open_issues": 0,
             "owner": "git-guocc",
             "repo": "ASDN",
-            "stars": 15,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T05:48:02.370Z",
+    "last_updated": "2026-10-17T05:32:57.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",
