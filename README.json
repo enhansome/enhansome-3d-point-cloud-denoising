@@ -234,7 +234,7 @@
             "open_issues": 3,
             "owner": "yulequan",
             "repo": "EC-Net",
-            "stars": 104,
+            "stars": 105,
             "topics": [
               "3d-shape",
               "point-cloud",
@@ -996,7 +996,7 @@
             "open_issues": 9,
             "owner": "sair-lab",
             "repo": "SuperPC",
-            "stars": 22,
+            "stars": 23,
             "topics": [
               "diffusion-models",
               "point-cloud-colorization",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T06:07:22.642Z",
+    "last_updated": "2026-10-20T05:58:27.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",

@@ -118,7 +118,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 # 2018
 
-* \[[Link](https://yulequan.github.io/ec-net/index.html)] EC-Net: an Edge-aware Point set Consolidation Network \[[code](https://github.com/yulequan/EC-Net) ⭐ 104 | 🐛 3 | 🌐 Python | 📅 2022-04-07] 🔥 `dl.` `rec.`
+* \[[Link](https://yulequan.github.io/ec-net/index.html)] EC-Net: an Edge-aware Point set Consolidation Network \[[code](https://github.com/yulequan/EC-Net) ⭐ 105 | 🐛 3 | 🌐 Python | 📅 2022-04-07] 🔥 `dl.` `rec.`
 * \[[Link](https://arxiv.org/pdf/1712.03574)] Static/Dynamic Filtering for Mesh Geometry \[[code](https://github.com/bldeng/MeshSDFilter) ⭐ 62 | 🐛 3 | 🌐 C++ | 📅 2020-08-13] ◼️ `mesh.` `trad.`
 * \[[Link](http://staff.ustc.edu.cn/~zhangwm/Paper/2019_12.pdf)] DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense \[[code](https://github.com/RyanHangZhou/tensorflow-DUP-Net) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2021-08-10] 🔥 `dl.` `rec.`
 * \[[Link](https://arxiv.org/pdf/1804.10831)] Fast 3D Point Cloud Denoising via Bipartite Graph Approximation & Total Variation ◼️ `var.`
@@ -269,7 +269,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 # 2025
 
-* \[[Link](https://arxiv.org/pdf/2503.14558)] SuperPC: A Single Diffusion Model for Point Cloud Completion, Upsampling, Denoising, and Colorization \[[code](https://github.com/sair-lab/SuperPC) ⭐ 22 | 🐛 9 | 🌐 Python | 📅 2026-06-15] ◼️ `dl.` `res.` `oth.`
+* \[[Link](https://arxiv.org/pdf/2503.14558)] SuperPC: A Single Diffusion Model for Point Cloud Completion, Upsampling, Denoising, and Colorization \[[code](https://github.com/sair-lab/SuperPC) ⭐ 23 | 🐛 9 | 🌐 Python | 📅 2026-06-15] ◼️ `dl.` `res.` `oth.`
 * \[[Link](https://ojs.aaai.org/index.php/AAAI/article/view/32331)] You Should Learn to Stop Denoising on Point Clouds in Advance (ASDN) \[[code](https://github.com/git-guocc/ASDN) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2025-09-28] ◼️ `dl.`
 * \[[Link](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Learning_Normals_of_Noisy_Points_by_Local_Gradient-Aware_Surface_Filtering_ICCV_2025_paper.pdf)] Learning Normals of Noisy Points by Local Gradient-Aware Surface Filtering (LGSF) \[[code](https://github.com/LeoQLi/LGSF) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2025-10-15] ◼️ `ne.` `dl.`
 * \[[Link](https://arxiv.org/pdf/2503.09283)] Noise2Score3D: Tweedie's Approach for Unsupervised Point Cloud Denoising \[[code](https://github.com/Bobby645/Noise2Score3D) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-06-24] ◼️ `un.` `dl.`
@@ -301,4 +301,4 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
