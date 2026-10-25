@@ -234,7 +234,7 @@
             "open_issues": 3,
             "owner": "yulequan",
             "repo": "EC-Net",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "3d-shape",
               "point-cloud",
@@ -336,7 +336,7 @@
             "open_issues": 2,
             "owner": "mrakotosaon",
             "repo": "pointcleannet",
-            "stars": 293,
+            "stars": 294,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T05:46:05.674Z",
+    "last_updated": "2026-10-25T06:01:52.219Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",

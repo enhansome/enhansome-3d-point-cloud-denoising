@@ -118,7 +118,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 # 2018
 
-* \[[Link](https://yulequan.github.io/ec-net/index.html)] EC-Net: an Edge-aware Point set Consolidation Network \[[code](https://github.com/yulequan/EC-Net) ⭐ 105 | 🐛 3 | 🌐 Python | 📅 2022-04-07] 🔥 `dl.` `rec.`
+* \[[Link](https://yulequan.github.io/ec-net/index.html)] EC-Net: an Edge-aware Point set Consolidation Network \[[code](https://github.com/yulequan/EC-Net) ⭐ 106 | 🐛 3 | 🌐 Python | 📅 2022-04-07] 🔥 `dl.` `rec.`
 * \[[Link](https://arxiv.org/pdf/1712.03574)] Static/Dynamic Filtering for Mesh Geometry \[[code](https://github.com/bldeng/MeshSDFilter) ⭐ 62 | 🐛 3 | 🌐 C++ | 📅 2020-08-13] ◼️ `mesh.` `trad.`
 * \[[Link](http://staff.ustc.edu.cn/~zhangwm/Paper/2019_12.pdf)] DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense \[[code](https://github.com/RyanHangZhou/tensorflow-DUP-Net) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2021-08-10] 🔥 `dl.` `rec.`
 * \[[Link](https://arxiv.org/pdf/1804.10831)] Fast 3D Point Cloud Denoising via Bipartite Graph Approximation & Total Variation ◼️ `var.`
@@ -136,7 +136,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 # 2019
 
 * \[[Link](https://arxiv.org/pdf/1906.04173)] Differentiable Surface Splatting for Point-based Geometry Processing \[[code](https://github.com/yifita/DSS) ⭐ 446 | 🐛 12 | 🌐 Python | 📅 2026-04-13] 🔸 `rec.` `dl.`
-* \[[Link](https://arxiv.org/pdf/1901.01060)] PointCleanNet: Learning to Denoise and Remove Outliers from Dense Point Clouds \[[code](https://github.com/mrakotosaon/pointcleannet) ⭐ 293 | 🐛 2 | 🌐 Python | 📅 2020-07-29] 🌟 `dl.`
+* \[[Link](https://arxiv.org/pdf/1901.01060)] PointCleanNet: Learning to Denoise and Remove Outliers from Dense Point Clouds \[[code](https://github.com/mrakotosaon/pointcleannet) ⭐ 294 | 🐛 2 | 🌐 Python | 📅 2020-07-29] 🌟 `dl.`
 * \[[Link](https://arxiv.org/pdf/1904.07615)] Total denoising: Unsupervised learning of 3D point cloud cleaning (TD) \[[code](https://github.com/phermosilla/TotalDenoising) ⚠️ Archived] 🔸 `un.`
 * \[[Link](https://arxiv.org/pdf/1803.07252)] 3D Point Cloud Denoising using Graph Laplacian Regularization of a Low Dimensional Manifold Model \[[code](https://github.com/jzengust/ldmm_graph_laplacian_pointcloud_denoise) ⭐ 40 | 🐛 1 | 🌐 MATLAB | 📅 2019-12-20] 🔸 `var.`
 * \[[Link](https://www.semanticscholar.org/paper/Deep-Unsupervised-Learning-of-3D-Point-Clouds-via-Chen-Duan/4d941083fa57d62fed269ceecbf7d8af66ec6c9c)] Deep Unsupervised Learning of 3D Point Clouds via Graph Topology Inference and Filtering \[[code](https://github.com/merlresearch/FoldingNet_Plus) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2023-09-14] 🔹 `un.`
@@ -301,4 +301,4 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
