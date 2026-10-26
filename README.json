@@ -851,7 +851,7 @@
             "open_issues": 6,
             "owner": "Grandzxw",
             "repo": "TripleMixer",
-            "stars": 79,
+            "stars": 80,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T06:01:52.219Z",
+    "last_updated": "2026-10-26T06:05:58.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",
