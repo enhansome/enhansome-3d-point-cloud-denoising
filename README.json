@@ -996,7 +996,7 @@
             "open_issues": 9,
             "owner": "sair-lab",
             "repo": "SuperPC",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "diffusion-models",
               "point-cloud-colorization",
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T07:00:09.729Z",
+    "last_updated": "2026-10-30T07:02:53.884Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",
