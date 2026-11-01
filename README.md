@@ -108,7 +108,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 # 2017
 
-* \[[Link](https://link.springer.com/article/10.1007/s11042-017-5310-9)] Guided 3D point cloud filtering \[[code](https://github.com/aipiano/guided-filter-point-cloud-denoise) ⭐ 96 | 🐛 2 | 🌐 Python | 📅 2019-05-07] ◼️ `trad.`
+* \[[Link](https://link.springer.com/article/10.1007/s11042-017-5310-9)] Guided 3D point cloud filtering \[[code](https://github.com/aipiano/guided-filter-point-cloud-denoise) ⭐ 97 | 🐛 2 | 🌐 Python | 📅 2019-05-07] ◼️ `trad.`
 * \[[Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13068)] Point Cloud Denoising via Moving RPCA 🔸 `trad.` `var.`
 * \[[Link](https://www.ipol.im/pub/art/2017/179/revisions/2022-01-01/article.pdf)] The bilateral filter for point clouds \[[code](https://www.ipol.im/pub/art/2017/179/)] 🔹 `trad.`
 * \[[Link](https://inria.hal.science/hal-02124225v1/document)] Hierarchical Denoising Method of Crop 3D Point Cloud
@@ -281,7 +281,7 @@ Thank you and enjoy the 3D point cloud denoising world.
 # 2026
 
 * \[[Link](https://arxiv.org/pdf/2605.26894)] SIMPC: Learning Self-Induced Mirror-Point Consistency for Unsupervised Point Cloud Denoising ◼️ `un.` `dl.`
-* \[[Link](https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_Routing_on_Demand_DSNet_for_Efficient_Progressive_Point_Cloud_Denoising_CVPR_2026_paper.pdf)] Routing on Demand: DSNet for Efficient Progressive Point Cloud Denoising \[[code](https://github.com/cz-61/DSNet) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-08-12] ◼️ `dl.`
+* \[[Link](https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_Routing_on_Demand_DSNet_for_Efficient_Progressive_Point_Cloud_Denoising_CVPR_2026_paper.pdf)] Routing on Demand: DSNet for Efficient Progressive Point Cloud Denoising \[[code](https://github.com/cz-61/DSNet) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-08-12] ◼️ `dl.`
 * \[[Link](https://doi.org/10.1016/j.cagd.2026.102622)] Total Generalized Variation Based Point Cloud Denoising ◼️ `var.`
 * \[[Link](https://doi.org/10.1016/j.aei.2026.104449)] DeSnow-GNN: Spatiotemporal Graph Neural Network for Robust LiDAR Point Cloud Denoising in Adverse Weather ◼️ `dl.`
 * \[[Link](https://doi.org/10.1109/TVCG.2025.3621633)] Deterministic Point Cloud Diffusion for Denoising ◼️ `dl.`
@@ -301,4 +301,4 @@ Thank you and enjoy the 3D point cloud denoising world.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
