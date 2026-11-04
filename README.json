@@ -5,8 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Bilateral mesh denoising [code] 🔸",
+          "title": "Bilateral mesh denoising",
+          "description": "Traditional filter. Code 🔸",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -26,8 +26,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Non-Iterative, Feature-Preserving Mesh Smoothing [code] 🔥",
+          "title": "Non-Iterative, Feature-Preserving Mesh Smoothing",
+          "description": "Mesh denoising, Traditional filter. Code 🔥",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -53,8 +53,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Fast and Effective Feature-Preserving Mesh Denoising [code] 🌟",
+          "title": "Fast and Effective Feature-Preserving Mesh Denoising",
+          "description": "Mesh denoising, Traditional filter. Code 🌟",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -80,8 +80,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Consolidation of Unorganized Point Clouds for Surface Reconstruction (WLOP) [code] 🌟",
+          "title": "Consolidation of Unorganized Point Clouds for Surface Reconstruction (WLOP)",
+          "description": "Resampling/compression. Code 🌟",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -112,8 +112,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Bilateral Normal Filtering for Mesh Denoising [code] 🌟",
+          "title": "Bilateral Normal Filtering for Mesh Denoising",
+          "description": "Traditional filter, Mesh denoising. Code 🌟",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -139,8 +139,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Mesh Denoising via L0 Minimization [code1][code2][code3] 🔥",
+          "title": "Mesh Denoising via L0 Minimization",
+          "description": "Variational-based method, Mesh denoising. Code Code Code 🔥",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -166,8 +166,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Guided Mesh Normal Filtering [code] 🔥",
+          "title": "Guided Mesh Normal Filtering",
+          "description": "Mesh denoising, Normal estimation. Code 🔥",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -193,8 +193,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Guided 3D point cloud filtering [code] ◼️",
+          "title": "Guided 3D point cloud filtering",
+          "description": "Traditional filter. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -220,8 +220,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] EC-Net: an Edge-aware Point set Consolidation Network [code] 🔥",
+          "title": "EC-Net: an Edge-aware Point set Consolidation Network",
+          "description": "Deep learning, Resampling/compression. Code 🔥",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -245,8 +245,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Static/Dynamic Filtering for Mesh Geometry [code] ◼️",
+          "title": "Static/Dynamic Filtering for Mesh Geometry",
+          "description": "Mesh denoising, Traditional filter. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -266,8 +266,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense [code] 🔥",
+          "title": "DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense",
+          "description": "Deep learning, Resampling/compression. Code 🔥",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -293,8 +293,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Differentiable Surface Splatting for Point-based Geometry Processing [code] 🔸",
+          "title": "Differentiable Surface Splatting for Point-based Geometry Processing",
+          "description": "Resampling/compression, Deep learning. Code 🔸",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -322,8 +322,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] PointCleanNet: Learning to Denoise and Remove Outliers from Dense Point Clouds [code] 🌟",
+          "title": "PointCleanNet: Learning to Denoise and Remove Outliers from Dense Point Clouds",
+          "description": "Deep learning. Code 🌟",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -343,8 +343,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Total denoising: Unsupervised learning of 3D point cloud cleaning (TD) [code] 🔸",
+          "title": "Total denoising: Unsupervised learning of 3D point cloud cleaning (TD)",
+          "description": "Unsupervised learning. Code 🔸",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -364,8 +364,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] 3D Point Cloud Denoising using Graph Laplacian Regularization of a Low Dimensional Manifold Model [code] 🔸",
+          "title": "3D Point Cloud Denoising using Graph Laplacian Regularization of a Low Dimensional Manifold Model",
+          "description": "Variational-based method. Code 🔸",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -385,8 +385,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Deep Unsupervised Learning of 3D Point Clouds via Graph Topology Inference and Filtering [code] 🔹",
+          "title": "Deep Unsupervised Learning of 3D Point Clouds via Graph Topology Inference and Filtering",
+          "description": "Unsupervised learning. Code 🔹",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -412,8 +412,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] CNN-based Lidar Point Cloud De-Noising in Adverse Weather [code] 🔸",
+          "title": "CNN-based Lidar Point Cloud De-Noising in Adverse Weather",
+          "description": "Deep learning. Code 🔸",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -433,8 +433,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Differentiable Manifold Reconstruction for Point Cloud Denoising [code] 🔸",
+          "title": "Differentiable Manifold Reconstruction for Point Cloud Denoising",
+          "description": "Unsupervised learning. Code 🔸",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -460,8 +460,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Pointfilter: Point Cloud Filtering via Encoder Decoder Modeling [code] 🔹",
+          "title": "Pointfilter: Point Cloud Filtering via Encoder Decoder Modeling",
+          "description": "Deep learning. Code 🔹",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -481,8 +481,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Learning Graph-Convolutional Representations for Point Cloud Denoising (GPDNet) [code] 🔹",
+          "title": "Learning Graph-Convolutional Representations for Point Cloud Denoising (GPDNet)",
+          "description": "Deep learning. Code 🔹",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -508,8 +508,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Deep Point Set Resampling via Gradient Fields [code] 🔹",
+          "title": "Deep Point Set Resampling via Gradient Fields",
+          "description": "Deep learning, Resampling/compression. Code 🔹",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -529,8 +529,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Mesh Denoising with Facet Graph Convolutions [code] 🔹",
+          "title": "Mesh Denoising with Facet Graph Convolutions",
+          "description": "Deep learning, Mesh denoising. Code 🔹",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -556,8 +556,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Score-Based Point Cloud Denoising [code] 🔥",
+          "title": "Score-Based Point Cloud Denoising",
+          "description": "Unsupervised learning. Code 🔥",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -577,8 +577,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] RePCD-Net: Feature-Aware Recurrent Point Cloud Denoising Network [code] ◼️",
+          "title": "RePCD-Net: Feature-Aware Recurrent Point Cloud Denoising Network",
+          "description": "Deep learning. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -604,8 +604,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows [code] ◼️",
+          "title": "PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows",
+          "description": "Deep learning. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -625,8 +625,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] MODNet: Multi-offset Point Cloud Denoising Network Customized for Multi-scale Patches [code] ◼️",
+          "title": "MODNet: Multi-offset Point Cloud Denoising Network Customized for Multi-scale Patches",
+          "description": "Deep learning. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -646,8 +646,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Structure-Aware Denoising for Real-world Noisy Point Clouds with Complex Structures [code] ◼️",
+          "title": "Structure-Aware Denoising for Real-world Noisy Point Clouds with Complex Structures",
+          "description": "Deep learning. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -673,8 +673,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] IterativePFN: True Iterative Point Cloud Filtering [code] ◼️",
+          "title": "IterativePFN: True Iterative Point Cloud Filtering",
+          "description": "Deep learning. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -699,8 +699,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] 4DenoiseNet: Adverse Weather Denoising From Adjacent Point Clouds [code] ◼️",
+          "title": "4DenoiseNet: Adverse Weather Denoising From Adjacent Point Clouds",
+          "description": "Deep learning. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -720,8 +720,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Point Cloud Denoising via Momentum Ascent in Gradient Fields [code] ◼️",
+          "title": "Point Cloud Denoising via Momentum Ascent in Gradient Fields",
+          "description": "Deep learning. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -741,8 +741,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] PCDNF: Revisiting Learning-based Point Cloud Denoising via Joint Normal Filtering [code] ◼️",
+          "title": "PCDNF: Revisiting Learning-based Point Cloud Denoising via Joint Normal Filtering",
+          "description": "Deep learning, Normal estimation. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -762,8 +762,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Contrastive Learning for Joint Normal Estimation and Point Cloud Filtering [code] ◼️",
+          "title": "Contrastive Learning for Joint Normal Estimation and Point Cloud Filtering",
+          "description": "Deep learning, Normal estimation. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -789,8 +789,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Refine-Net: Normal Refinement Neural Network for Noisy Point Clouds [code] ◼️",
+          "title": "Refine-Net: Normal Refinement Neural Network for Noisy Point Clouds",
+          "description": "Deep learning, Normal estimation. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -816,8 +816,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] P2P-Bridge Diffusion Bridges for 3D Point Cloud [code] ◼️",
+          "title": "P2P-Bridge Diffusion Bridges for 3D Point Cloud",
+          "description": "Deep learning. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -837,8 +837,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] TripleMixer A 3D Point Cloud Denoising Model or Adverse Weather [code] ◼️",
+          "title": "TripleMixer A 3D Point Cloud Denoising Model or Adverse Weather",
+          "description": "Deep learning. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -858,8 +858,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] PathNet: Path-Selective Point Cloud Denoising [code] ◼️",
+          "title": "PathNet: Path-Selective Point Cloud Denoising",
+          "description": "Deep learning. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -879,8 +879,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] StraightPCF: Straight Point Cloud Filtering [code] ◼️",
+          "title": "StraightPCF: Straight Point Cloud Filtering",
+          "description": "Deep learning. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -900,8 +900,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Denoising Point Clouds in Latent Space via Graph Convolution and Invertible Neural Network [code] ◼️",
+          "title": "Denoising Point Clouds in Latent Space via Graph Convolution and Invertible Neural Network",
+          "description": "Deep learning. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -921,8 +921,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Self-supervised multi-echo point cloud denoising in snowfall [code] ◼️",
+          "title": "Self-supervised multi-echo point cloud denoising in snowfall",
+          "description": "Deep learning, Unsupervised learning. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -942,8 +942,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] PointCVaR: Risk-optimized Outlier Removal for Robust 3D Point Cloud Classification [code] ◼️",
+          "title": "PointCVaR: Risk-optimized Outlier Removal for Robust 3D Point Cloud Classification",
+          "description": "Deep learning, Other. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -982,8 +982,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] SuperPC: A Single Diffusion Model for Point Cloud Completion, Upsampling, Denoising, and Colorization [code] ◼️",
+          "title": "SuperPC: A Single Diffusion Model for Point Cloud Completion, Upsampling, Denoising, and Colorization",
+          "description": "Deep learning, Super-resolution, Other. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1010,8 +1010,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] You Should Learn to Stop Denoising on Point Clouds in Advance (ASDN) [code] ◼️",
+          "title": "You Should Learn to Stop Denoising on Point Clouds in Advance (ASDN)",
+          "description": "Deep learning. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1031,8 +1031,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Learning Normals of Noisy Points by Local Gradient-Aware Surface Filtering (LGSF) [code] ◼️",
+          "title": "Learning Normals of Noisy Points by Local Gradient-Aware Surface Filtering (LGSF)",
+          "description": "Normal estimation, Deep learning. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1052,8 +1052,8 @@
         },
         {
           "node_type": "item",
-          "title": "[Link",
-          "description": "] Noise2Score3D: Tweedie's Approach for Unsupervised Point Cloud Denoising [code] ◼️",
+          "title": "Noise2Score3D: Tweedie's Approach for Unsupervised Point Cloud Denoising",
+          "description": "Unsupervised learning, Deep learning. Code ◼️",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1076,15 +1076,15 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T07:51:49.495Z",
+    "last_updated": "2026-11-04T07:27:30.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",
       "homepage": null,
       "id": 906397935,
       "language": "Python",
-      "license": null,
-      "last_commit": "2026-10-06T22:35:32Z",
+      "license": "CC0-1.0",
+      "last_commit": "2026-11-03T18:54:50Z",
       "open_issues": 0,
       "owner": "agarnung",
       "repo": "awesome-3d-point-cloud-denoising",
@@ -1095,6 +1095,7 @@
         "3d-denoise",
         "3d-denoising",
         "3d-pointclouds",
+        "awesome",
         "awesome-list",
         "computer-vision",
         "denoise",
@@ -1105,9 +1106,9 @@
         "point-cloud"
       ]
     },
-    "original_repository_sha": "6976804f1fcd96b552344a001f4c111c60aaddc7",
+    "original_repository_sha": "e38b5d6641aec6390e6c05bf8f10e8560e62769a",
     "enhanced_repository": "enhansome/enhansome-3d-point-cloud-denoising",
     "enhanced_repository_description": null,
-    "title": "Awesome Overview with stars"
+    "title": "Awesome 3D Point Cloud Denoising with stars"
   }
 }
