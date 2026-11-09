@@ -280,7 +280,7 @@ Citation gradations: ◼️ Less than 5 citations · 🔹 More than 5 citations 
 * [SuperPC: A Single Diffusion Model for Point Cloud Completion, Upsampling, Denoising, and Colorization](https://arxiv.org/pdf/2503.14558) - Deep learning, Super-resolution, Other. [Code](https://github.com/sair-lab/SuperPC) ⭐ 25 | 🐛 9 | 🌐 Python | 📅 2026-06-15 `dl.` `res.` `oth.` ◼️
 * [You Should Learn to Stop Denoising on Point Clouds in Advance (ASDN)](https://ojs.aaai.org/index.php/AAAI/article/view/32331) - Deep learning. [Code](https://github.com/git-guocc/ASDN) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2025-09-28 `dl.` ◼️
 * [Learning Normals of Noisy Points by Local Gradient-Aware Surface Filtering (LGSF)](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Learning_Normals_of_Noisy_Points_by_Local_Gradient-Aware_Surface_Filtering_ICCV_2025_paper.pdf) - Normal estimation, Deep learning. [Code](https://github.com/LeoQLi/LGSF) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2025-10-15 `ne.` `dl.` ◼️
-* [Noise2Score3D: Tweedie's Approach for Unsupervised Point Cloud Denoising](https://arxiv.org/pdf/2503.09283) - Unsupervised learning, Deep learning. [Code](https://github.com/Bobby645/Noise2Score3D) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-06-24 `un.` `dl.` ◼️
+* [Noise2Score3D: Tweedie's Approach for Unsupervised Point Cloud Denoising](https://arxiv.org/pdf/2503.09283) - Unsupervised learning, Deep learning. [Code](https://github.com/Bobby645/Noise2Score3D) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-06-24 `un.` `dl.` ◼️
 * [LiDAR point cloud denoising for individual tree extraction based on the Noise4Denoise](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1490660/full) - Unsupervised learning. `un.` ◼️
 * [Deep Learning For Point Cloud Denoising: A Survey](https://arxiv.org/pdf/2508.11932) - Survey, Deep learning. `surv.` `dl.` ◼️
 * [A Survey of Deep Learning-based Point Cloud Denoising](https://arxiv.org/pdf/2508.17011) - Survey, Deep learning. `surv.` `dl.` ◼️
@@ -308,4 +308,4 @@ Citation gradations: ◼️ Less than 5 citations · 🔹 More than 5 citations 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
