@@ -1024,7 +1024,7 @@
             "open_issues": 0,
             "owner": "git-guocc",
             "repo": "ASDN",
-            "stars": 14,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:10.402Z"
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T07:54:01.802Z",
+    "last_updated": "2026-11-10T08:21:58.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",
