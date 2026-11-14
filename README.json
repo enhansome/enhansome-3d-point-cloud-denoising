@@ -993,7 +993,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-06-15T04:21:33Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "sair-lab",
             "repo": "SuperPC",
             "stars": 25,
@@ -1076,7 +1076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T07:52:15.485Z",
+    "last_updated": "2026-11-14T07:33:50.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome 3D point cloud denoising papers",
